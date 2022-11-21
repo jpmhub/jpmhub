@@ -1,6 +1,6 @@
 👋 Hi, I’m JP the mastermind of @jpmhub
  
-  Here you can find all my projects and coding methods.
+  Personal projects and algorithms. 
   
 📫 How to reach me:
 
